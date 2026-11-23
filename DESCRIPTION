@@ -1,6 +1,6 @@
 Package: DiPPER
 Title: Differential Prevalence via Probabilistic Estimation in R
-Version: 0.99.1
+Version: 1.0.0
 Authors@R: c(
     person(given = "Juho",
            family = "Pelto",
